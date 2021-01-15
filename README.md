@@ -1,7 +1,7 @@
 # MatchingApp
 
 A Matching App testing your memory using a 4x4 board with 16 images, each image having a pair. The goal is to match all 8 pairs in different modes: one player mode, two player mode and timed mode. Every time a new board is craeted the images are randomly shuffled. Best visual and graphics will occur when simulator is an iPhone 8 Plus.
-Focused on incorporating animations in Swift.
+Focused on incorporating animations in Swift. Note: animations are slow and laggy because the FPS had to be reduced to upload it to Github.
 
 Singleplayer mode:
 <br>
